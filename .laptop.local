@@ -48,3 +48,4 @@ brew_cask_install_or_upgrade vlc
 brew_cask_install_or_upgrade skype
 brew_cask_install_or_upgrade transmission
 brew_cask_install_or_upgrade google-drive
+brew_cask_install_or_upgrade dropbox
